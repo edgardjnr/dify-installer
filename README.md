@@ -40,4 +40,5 @@ chmod +x install-dify.sh
 ### 🧠 Método 2 – Direto por ssh na sua vps
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/edgardjnr/dify-installer/main/install-dify.sh)
+bash <(curl -s https://raw.githubusercontent.com/edgardjnr/dify-installer/main/dify-installer/install-dify.sh)
+
