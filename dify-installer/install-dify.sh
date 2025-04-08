@@ -33,8 +33,8 @@ fi
 # ------------------------------------------------------------------------------
 while true; do
   echo "=================================================="
-  read -p "Digite o domínio WEB (ex: df.automilionaria.trade): " WEB_DOMAIN
-  read -p "Digite o domínio API (ex: api-df.automilionaria.trade): " API_DOMAIN
+  read -p "Digite o domínio WEB (ex: df.onebots.com.br): " WEB_DOMAIN
+  read -p "Digite o domínio API (ex: api-df.onebots.com.br): " API_DOMAIN
   
   echo
   echo "Você informou:"
